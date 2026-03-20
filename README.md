@@ -57,7 +57,7 @@ Step 11 : Created a pivot table to calculate the total production cost for each 
 ![Snap_4](https://github.com/Chaithrakulal-23/Production-Performance-Cost-Analysis-Dashboard/blob/f8d074468cca3ec203c47fbba5b9b3381714b8d2/piv21.png)
 
 Step 12 : Built another pivot table to count the number of production IDs handled by each manager, which helped in analyzing workload distribution, and represented this using a 3D bar chart for better clarity.
-![Snap_5](https://user-images.githubusercontent.com/102996550/174089602-ab834a6b-62ce-4b62-8922-a1d241ec240e.jpg)
+![Snap_5](https://github.com/Chaithrakulal-23/Production-Performance-Cost-Analysis-Dashboard/blob/71582eb12c117a39417a9caa41e27e077a4a53f1/piv22.png)
 
 Step 13 : Developed a pivot table to analyze production trends over time by calculating units produced across different months and years, and displayed these trends using a line chart to identify patterns and fluctuations.
 ![Snap_6](https://user-images.githubusercontent.com/102996550/174089602-ab834a6b-62ce-4b62-8922-a1d241ec240e.jpg)
