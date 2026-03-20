@@ -64,7 +64,7 @@ Step 13 : Developed a pivot table to analyze production trends over time by calc
 
 Step 14 : Created a pivot table to compute the average production cost per unit for each product type, and visualized this information using a pie chart to highlight cost efficiency differences.
 
-![Snap_7](https://user-images.githubusercontent.com/102996550/174089602-ab834a6b-62ce-4b62-8922-a1d241ec240e.jpg)
+![Snap_7](https://github.com/Chaithrakulal-23/Production-Performance-Cost-Analysis-Dashboard/blob/425cbe051afbe978caf7b686fc8d04f98aef553b/piv24.png)
 Step 15 : Designed a dedicated dashboard sheet and added slicers for region, gender, age group, and production date to enable dynamic filtering and better user interaction.
 
 Step 16 : Connected all slicers to the pivot tables and arranged the corresponding pivot charts within the dashboard, resulting in a fully interactive and user-friendly reporting interface.
