@@ -1,6 +1,6 @@
 # Production Performance Dashboard
 
-
+https://github.com/Chaithrakulal-23/Production-Performance-Cost-Analysis-Dashboard/blob/fe75dec81926e3eb47135f81a3beb507d2483cf0/DASHBOARD2EXCEL.xlsx
 ## Problem Statement
 
 This dashboard helps analyze production performance across different regions, managers, and product types. It provides insights into production efficiency, cost distribution, and workforce characteristics such as age groups and gender.
