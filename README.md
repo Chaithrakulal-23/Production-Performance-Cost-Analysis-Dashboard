@@ -81,8 +81,6 @@ Step 16 : Connected all slicers to the pivot tables and arranged the correspondi
 
 A single page report was created on Excel.
 
-Following inferences can be drawn from the dashboard;
-
 ### 1. Cost Analysis
 
 Certain product types contribute more to total production cost
@@ -117,7 +115,6 @@ A2 (36–45)
 
 A3 (>45)
 
-Gender data cleaned for accurate reporting97 %)
 
 
          
