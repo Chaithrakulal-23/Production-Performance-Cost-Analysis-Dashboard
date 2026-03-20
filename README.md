@@ -35,7 +35,7 @@ Step 6 : Used VLOOKUP to extract correct age for each manager
            
            =VLOOKUP(A2,'Production Dataset'!$D$1:$I$121,6,0)
 
-![Snap_1](https://user-images.githubusercontent.com/102996550/174089602-ab834a6b-62ce-4b62-8922-a1d241ec240e.jpg)
+![Snap_1](https://github.com/Chaithrakulal-23/Production-Performance-Cost-Analysis-Dashboard/blob/0f3ed96727f35d9162c206cfe339b0a1cbc999bf/v1.png)
 
 Step 7 : Created a helper table and used VLOOKUP again to fill corrected age:
 
