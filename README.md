@@ -72,7 +72,7 @@ Step 16 : Connected all slicers to the pivot tables and arranged the correspondi
 
 # Snapshot of Dashboard (Power BI Service)
 
-![dashboard_snapo](https://user-images.githubusercontent.com/102996550/174096257-11f1aae5-203d-44fc-bfca-25d37faf3237.jpg)
+![dashboard_snapo](https://github.com/Chaithrakulal-23/Production-Performance-Cost-Analysis-Dashboard/blob/9072bf8622310a4087359fd4a085719b370e4cfc/EXCELDASHBOARD2.png)
 
  
 
