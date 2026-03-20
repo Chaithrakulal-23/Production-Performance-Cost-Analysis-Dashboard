@@ -60,7 +60,7 @@ Step 12 : Built another pivot table to count the number of production IDs handle
 ![Snap_5](https://github.com/Chaithrakulal-23/Production-Performance-Cost-Analysis-Dashboard/blob/71582eb12c117a39417a9caa41e27e077a4a53f1/piv22.png)
 
 Step 13 : Developed a pivot table to analyze production trends over time by calculating units produced across different months and years, and displayed these trends using a line chart to identify patterns and fluctuations.
-![Snap_6](https://user-images.githubusercontent.com/102996550/174089602-ab834a6b-62ce-4b62-8922-a1d241ec240e.jpg)
+![Snap_6](https://github.com/Chaithrakulal-23/Production-Performance-Cost-Analysis-Dashboard/blob/5be79f3bc06dd1e0c3287a2ccb410c029580768d/piv23.png)
 
 Step 14 : Created a pivot table to compute the average production cost per unit for each product type, and visualized this information using a pie chart to highlight cost efficiency differences.
 
