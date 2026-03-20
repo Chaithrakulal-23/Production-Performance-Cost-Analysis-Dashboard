@@ -45,7 +45,7 @@ Step 7 : Created a helper table and used VLOOKUP again to fill corrected age:
 Step 8 : Created a new column Age Group using IF condition
 
           =IF(I2<=35,"A1",IF(I2<=45,"A2","A3"))
-![Snap_3](https://user-images.githubusercontent.com/102996550/174089602-ab834a6b-62ce-4b62-8922-a1d241ec240e.jpg)
+![Snap_3](https://github.com/Chaithrakulal-23/Production-Performance-Cost-Analysis-Dashboard/blob/379e9260a93b86d1bb69d6c236f5ea6afad55e2d/2agegrp.png)
 
 Step 9 : Created Production Cost Per Unit column:
 
