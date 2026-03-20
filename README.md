@@ -40,7 +40,7 @@ Step 6 : Used VLOOKUP to extract correct age for each manager
 Step 7 : Created a helper table and used VLOOKUP again to fill corrected age:
 
            =VLOOKUP(D2,vlookup!$A$2:$B$11,2,0)
-![Snap_2](https://user-images.githubusercontent.com/102996550/174089602-ab834a6b-62ce-4b62-8922-a1d241ec240e.jpg)
+![Snap_2](https://github.com/Chaithrakulal-23/Production-Performance-Cost-Analysis-Dashboard/blob/25e79098e4c9f5642af0e8c8d281d7939fa4b3cc/v2.png)
 
 Step 8 : Created a new column Age Group using IF condition
 
@@ -50,22 +50,21 @@ Step 8 : Created a new column Age Group using IF condition
 Step 9 : Created Production Cost Per Unit column:
 
           Total Cost / Units Produced
-![Snap_4](https://user-images.githubusercontent.com/102996550/174089602-ab834a6b-62ce-4b62-8922-a1d241ec240e.jpg)
 
 Step 10 : Removed decimal places for better readability.
 
 Step 11 : Created a pivot table to calculate the total production cost for each product type and visualized the results using a 3D column chart to clearly compare cost distribution across products.
-![Snap_5](https://user-images.githubusercontent.com/102996550/174089602-ab834a6b-62ce-4b62-8922-a1d241ec240e.jpg)
+![Snap_4](https://user-images.githubusercontent.com/102996550/174089602-ab834a6b-62ce-4b62-8922-a1d241ec240e.jpg)
 
 Step 12 : Built another pivot table to count the number of production IDs handled by each manager, which helped in analyzing workload distribution, and represented this using a 3D bar chart for better clarity.
-![Snap_6](https://user-images.githubusercontent.com/102996550/174089602-ab834a6b-62ce-4b62-8922-a1d241ec240e.jpg)
+![Snap_5](https://user-images.githubusercontent.com/102996550/174089602-ab834a6b-62ce-4b62-8922-a1d241ec240e.jpg)
 
 Step 13 : Developed a pivot table to analyze production trends over time by calculating units produced across different months and years, and displayed these trends using a line chart to identify patterns and fluctuations.
-![Snap_7](https://user-images.githubusercontent.com/102996550/174089602-ab834a6b-62ce-4b62-8922-a1d241ec240e.jpg)
+![Snap_6](https://user-images.githubusercontent.com/102996550/174089602-ab834a6b-62ce-4b62-8922-a1d241ec240e.jpg)
 
 Step 14 : Created a pivot table to compute the average production cost per unit for each product type, and visualized this information using a pie chart to highlight cost efficiency differences.
 
-![Snap_8](https://user-images.githubusercontent.com/102996550/174089602-ab834a6b-62ce-4b62-8922-a1d241ec240e.jpg)
+![Snap_7](https://user-images.githubusercontent.com/102996550/174089602-ab834a6b-62ce-4b62-8922-a1d241ec240e.jpg)
 Step 15 : Designed a dedicated dashboard sheet and added slicers for region, gender, age group, and production date to enable dynamic filtering and better user interaction.
 
 Step 16 : Connected all slicers to the pivot tables and arranged the corresponding pivot charts within the dashboard, resulting in a fully interactive and user-friendly reporting interface.
